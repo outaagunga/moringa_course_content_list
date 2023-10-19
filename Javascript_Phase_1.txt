@@ -1,0 +1,752 @@
+## Phase 1  Javascript
+
+ [Flex Only] Prerequisite
+Complete All Items
+Assignment
+[Flex] Phase 1 Prerequisite
+1 pts
+Score at least 1.0Must score at least 1.0 to complete this module item
+Welcome to Phase 1
+ Welcome to Phase 1
+Complete All Items
+Page
+Welcome - What To Expect In Phase 1
+ViewMust view in order to complete this module item
+Page
+Blogging
+Discussion Questions
+ Discussion Questions
+Discussion Topic
+Discussion Questions: Arrow Functions
+Discussion Topic
+Discussion Questions: Thinking in Types
+Discussion Topic
+Discussion Questions: JS and the DOM
+Discussion Topic
+Discussion Questions: Events
+Discussion Topic
+Discussion Questions: ES6 Features
+Discussion Topic
+Discussion Questions: Client-Server Communication
+Discussion Topic
+Discussion Questions: AJAX
+Discussion Topic
+Discussion Questions: Execution Context
+Wk1: Monday
+ Wk1: Monday
+Complete All Items
+Context Module Sub Header
+Javascricpt Fundamental
+Page
+Video: Variables and Data Types
+ViewMust view in order to complete this module item
+Page
+JavaScript Variables
+ViewMust view in order to complete this module item
+Assignment
+Review: Variables Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Review: Strings Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Comparisons in JavaScript
+ViewMust view in order to complete this module item
+Page
+Video: JavaScript Conditionals
+ViewMust view in order to complete this module item
+Page
+Review: Conditionals
+ViewMust view in order to complete this module item
+Page
+Logical Operators
+ViewMust view in order to complete this module item
+Assignment
+Review: Control Flow Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Review: Arithmetic Lab
+1 pts
+SubmitMust submit this module item to complete it
+Quiz
+JavaScript Fundamentals Quiz
+6 pts
+SubmitMust submit this module item to complete it
+wk1: Tuesday
+ wk1: Tuesday
+Complete All Items
+Context Module Sub Header
+Functions in JavaScript
+Page
+Video: Functions
+ViewMust view in order to complete this module item
+Page
+Review: Functions
+ViewMust view in order to complete this module item
+Assignment
+Functions Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Functions: Continued
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Video: Arrow Functions
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Arrow Functions
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Callback Functions
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) First-Class Functions
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) JavaScript Advanced Functions: First-Class Functions Lab
+1 pts
+SubmitMust submit this module item to complete it
+Quiz
+Functions in JavaScript Quiz
+12 pts
+SubmitMust submit this module item to complete it
+Context Module Sub Header
+Scope
+Page
+Video: Scope
+ViewMust view in order to complete this module item
+Page
+Introduction to Scope
+ViewMust view in order to complete this module item
+Page
+Scope Chain
+ViewMust view in order to complete this module item
+Assignment
+Scope Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Lexical scoping
+ViewMust view in order to complete this module item
+Quiz
+Scope Quiz
+8 pts
+SubmitMust submit this module item to complete it
+Wk1: Wednesday
+ Wk1: Wednesday
+Complete All Items
+Context Module Sub Header
+Working with Data Structures in JavaScript
+Page
+Video: Arrays and Objects
+ViewMust view in order to complete this module item
+Page
+Arrays
+ViewMust view in order to complete this module item
+Page
+Array Methods
+ViewMust view in order to complete this module item
+Assignment
+Arrays Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Objects
+ViewMust view in order to complete this module item
+Page
+Modifying Objects
+ViewMust view in order to complete this module item
+Assignment
+Objects Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Review: Debugging
+ViewMust view in order to complete this module item
+Page
+Video: JavaScript Loops
+ViewMust view in order to complete this module item
+Assignment
+Looping Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Object Iteration
+ViewMust view in order to complete this module item
+Page
+Traversing Nested Objects
+ViewMust view in order to complete this module item
+Quiz
+Working with Objects in JavaScript Quiz
+7 pts
+ViewMust view in order to complete this module item
+wk1: Thursday
+ wk1: Thursday
+Complete All Items
+Context Module Sub Header
+Combining the Three Pillars
+Context Module Sub Header
+Video Series: Array Iteration
+Page
+Video: First Class Functions
+ViewMust view in order to complete this module item
+Page
+Video: First Class Functions Part 2
+Page
+Video: .map
+Page
+Video: .map Part 2
+Page
+Video: .find
+Page
+Video: .reduce
+Page
+Video: .forEach
+Context Module Sub Header
+Array Iteration
+Page
+Array Iterator Methods
+Page
+Finding Array Elements
+Assignment
+Using the Array Find Method
+1 pts
+Page
+Filtering Arrays
+Assignment
+Using the Array Filter Method
+1 pts
+Page
+Mapping Arrays
+Assignment
+Using the Array Map Method
+1 pts
+Assignment
+Using the Array Reduce Method
+1 pts
+Page
+forEach: The Unexpressive Iterator
+Assignment
+(Not graded) Bonus: JavaScript Object-ball
+1 pts
+Page
+Arrays and Objects - What is Really Going On?
+Quiz
+Working with Arrays in JavaScript Quiz
+10 pts
+Context Module Sub Header
+JavaScript Advanced Syntax
+Page
+Video: Destructuring & Spread Operator
+Assignment
+(Not graded) Destructuring Assignment
+1 pts
+Page
+Advanced Function Parameter Syntax: Default / Rest / Spread
+wk1: Friday
+ wk1: Friday
+Complete All Items
+Context Module Sub Header
+Introducing The Three Pillars of JavaScript
+Page
+Defining Front-End Web Programming
+Assignment
+(Not graded) Stitching Together the Three Pillars
+1 pts
+Context Module Sub Header
+JavaScript and the DOM
+Page
+Video: Intro to DOM
+Page
+Introduction to the DOM
+Assignment
+DOM Editing Lab
+1 pts
+Page
+Changing The DOM with DevTools and JavaScript
+Page
+The DOM Is a Tree
+Page
+Video: DOM Selectors
+Page
+JavaScript Query Selector Methods
+Page
+Video: Changing DOM Elements
+Assignment
+Creating and Inserting DOM Nodes Lab
+1 pts
+Page
+You're a DOM Manipulation Expert, Now!
+Quiz
+JavaScript and The DOM Quiz
+10 pts
+Assignment
+Week 1 Code Challenge - Compulsory
+Jun 23
+15 pts
+Page
+Feedback 3-2
+Mark doneMust mark this module item done in order to complete
+WK2: Monday & Tuesday
+ WK2: Monday & Tuesday
+Prerequisites: wk1: Friday
+Complete All Items
+Context Module Sub Header
+JavaScript Events
+Page
+Video: DOM Events
+ViewMust view in order to complete this module item
+Page
+JavaScript Events
+ViewMust view in order to complete this module item
+Assignment
+JavaScript Event Listeners Lab
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Moving Things with JavaScript by Acting on Events
+1 pts
+Page
+Video: Forms
+ViewMust view in order to complete this module item
+Page
+Video: DOMContentLoaded
+Assignment
+(Not graded) The JavaScript DOMContentLoaded Event
+1 pts
+Assignment
+Challenge: TaskLister Mini-Project
+1 pts
+ViewMust view in order to complete this module item
+Page
+You're an Eventing Expert Now!
+Quiz
+JavaScript Events Quiz
+11 pts
+ViewMust view in order to complete this module item
+Wk2: Wednesday
+ Wk2: Wednesday
+Complete All Items
+Context Module Sub Header
+Communicating with the Server
+Page
+Introduction to Communicating with the Server
+ViewMust view in order to complete this module item
+Page
+Video: Intro to the Internet
+ViewMust view in order to complete this module item
+Page
+How The Web Works
+ViewMust view in order to complete this module item
+Page
+Video: JSON
+ViewMust view in order to complete this module item
+Page
+Video: DOM Manipulation Review
+ViewMust view in order to complete this module item
+Page
+Video: GET Requests
+ViewMust view in order to complete this module item
+Page
+Using fetch()
+ViewMust view in order to complete this module item
+Assignment
+Fetch Lab
+1 pts
+ViewMust view in order to complete this module item
+Quiz
+Communicating with the Server Quiz
+6 pts
+ViewMust view in order to complete this module item
+Wk2: Thursday
+ Wk2: Thursday
+Complete All Items
+Page
+Video: Postman
+ViewMust view in order to complete this module item
+Assignment
+Using JSON Server and Postman to Mock Client/Server Communication
+1 pts
+ViewMust view in order to complete this module item
+Context Module Sub Header
+Additional Practice: JavaScript
+Assignment
+(Not graded) Additional Practice: Interacting with the DOM using Events
+1 pts
+Assignment
+(Not graded) Additional Practice: Toy Tale
+1 pts
+Assignment
+(Not graded) Additional Practice: Monsters
+1 pts
+Assignment
+(Not graded) Additional Practice: BookLiker
+1 pts
+Assignment
+(Not graded) Additional Practice: JavaScript Quotes
+1 pts
+Assignment
+Phase 1 Mock Code Challenge: Ramen Rater
+1 pts
+ViewMust view in order to complete this module item
+WK2: Friday
+ WK2: Friday
+Complete All Items
+Context Module Sub Header
+Code Challenges
+Assignment
+Module Assessments and Instructions
+1 pts
+Assignment
+Phase 1 Code Challenge Rubric
+Assignment
+Phase 1 SA-03 Code Challenge: Flatacuties - Compulsory
+Jul 8
+15 pts
+ViewMust view in order to complete this module item
+WK3: Monday
+ WK3: Monday
+Prerequisites: WK2: Friday
+Complete All Items
+Context Module Sub Header
+Asynchronous Js
+Page
+Video: Asynchronous JavaScript & Fetch
+ViewMust view in order to complete this module item
+Page
+Asynchronous JavaScript
+ViewMust view in order to complete this module item
+Assignment
+Fetch on Demand with Forms
+1 pts
+Page
+Video: POST Requests
+ViewMust view in order to complete this module item
+Assignment
+Sending Data with Fetch
+1 pts
+ViewMust view in order to complete this module item
+Page
+Video: DELETE Requests
+ViewMust view in order to complete this module item
+Page
+Video: PATCH Requests
+ViewMust view in order to complete this module item
+WK3: Tuesday
+ WK3: Tuesday
+Complete All Items
+Context Module Sub Header
+Algorithmic Problem Solving
+Page
+Introduction to Algorithmic Problem Solving
+ViewMust view in order to complete this module item
+Page
+What is an Algorithm?
+ViewMust view in order to complete this module item
+Assignment
+Palindrome Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) Palindrome Lab Solution 1
+1 pts
+ViewMust view in order to complete this module item
+Page
+Big O Examples
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Palindrome Lab Solution 2
+1 pts
+ViewMust view in order to complete this module item
+Page
+Big O Notation
+ViewMust view in order to complete this module item
+Assignment
+Has Target Sum Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) Has Target Sum Lab Solution
+1 pts
+ViewMust view in order to complete this module item
+Page
+Algorithmic Problem Solving Conclusion
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) JavaScript Functional Library Project
+1 pts
+SubmitMust submit this module item to complete it
+Quiz
+Algorithmic Problem Solving Quiz
+5 pts
+SubmitMust submit this module item to complete it
+WK3: Wednesday
+ WK3: Wednesday
+Complete All Items
+Context Module Sub Header
+Context in JavaScript
+Assignment
+Introduction to Context
+1 pts
+ViewMust view in order to complete this module item
+Page
+Context and Implicit Setting
+Page
+Context and Explicit Setting
+Assignment
+Context Lab
+1 pts
+Page
+The Lost Context Bug Code-Along
+Quiz
+Context in JavaScript Quiz
+8 pts
+WK3: Thursday
+ WK3: Thursday
+Complete All Items
+Context Module Sub Header
+The Three Pillars of JavaScript
+Page
+Pulling It All Together
+ViewMust view in order to complete this module item
+Assignment
+Building the Simple Liker App
+1 pts
+Assignment
+(Not graded) Additional Practice: Fetch Dog CEO
+1 pts
+Assignment
+(Not graded) Additional Practice: Woof Woof Welcome to Doggo Bark Bark
+1 pts
+Assignment
+Additional Practice: Westminster Kennel Club Dog Show
+1 pts
+WK3: Friday
+ WK3: Friday
+Complete All Items
+Context Module Sub Header
+Code Challenge
+Assignment
+WK-3 Code Challenge: FlatDango - Compulsory
+Jul 11
+15 pts
+Page
+Feedback 4-2
+Mark doneMust mark this module item done in order to complete
+WK4: Phase 1 Project
+ WK4: Phase 1 Project
+Prerequisites: WK3: Friday
+Page
+Phase 1 Project Guidelines
+Assignment
+GitHub Link: Phase 1 Independent Project
+Jul 7
+20 pts
+Assignment
+Video Link: Phase 1 Project
+0 pts
+Assignment
+Blog Link: Phase 1 Project
+0 pts
+Assignment
+[Internal] Instructor Notes: Phase 1 Project
+30 pts
+(optional) Extra Practice: Object-Oriented JavaScript
+ (optional) Extra Practice: Object-Oriented JavaScript
+Complete All Items
+Page
+Video: Intro to Object-Oriented JavaScript
+ViewMust view in order to complete this module item
+Page
+Video: Exectution Context
+ViewMust view in order to complete this module item
+Page
+Object Orientation in JavaScript
+ViewMust view in order to complete this module item
+Page
+Classes and Instances
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Initializing Instances
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) Adding Behavior With Methods
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Method Types
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Getter and Setter Methods
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) Static Methods Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Video: Inheritance
+ViewMust view in order to complete this module item
+Page
+Class Extensions and Inheritance
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Class Extension Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Super
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Super Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Liskov's Substitution Principle
+ViewMust view in order to complete this module item
+Quiz
+Object-Oriented JavaScript Quiz
+14 pts
+SubmitMust submit this module item to complete it
+(optional) Extra Practice: JavaScript Inheritance
+ (optional) Extra Practice: JavaScript Inheritance
+Complete All Items
+Page
+Prototypal Inheritance
+ViewMust view in order to complete this module item
+Page
+Constructor Functions
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Constructor Functions Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Using Prototypes
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Object Methods in JS Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Prototypal Inheritance Conclusion
+ViewMust view in order to complete this module item
+(optional) Extra Practice: HTML Forms and Modern Elements
+ (optional) Extra Practice: HTML Forms and Modern Elements
+Complete All Items
+Page
+HTML Forms
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) HTML Forms Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+HTML IFrames
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) HTML Iframe Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+HTML5 Media
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) HTML5 Embedded Videos Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+HTML5 Semantic Elements
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) HTML5 Semantic Elements Lab
+1 pts
+SubmitMust submit this module item to complete it
+Blog Links
+ Blog Links
+Prerequisites: (optional) Extra Practice: Object-Oriented JavaScript
+Assignment
+Phase 1 Blog
+1 pts
+Congratulations on Completing Phase 1
+ Congratulations on Completing Phase 1
+Page
+Congratulations on Completing Phase 1!
+Pre-Diagnostic Assessments
+ Pre-Diagnostic Assessments
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Self Leadership Skills?
+45 pts
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Team Work Skills?
+75 pts
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Communication Skills?
+75 pts
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Creative and Problem Solving Skills?
+80 pts
+Professional Development Skills [Day 1 ] Leading Self
+ Professional Development Skills [Day 1 ] Leading Self
+Page
+📚 Learning Objectives: Leading Self-2
+Page
+Leading Self VILT Feedback Form-2
+External Tool
+Online Course: Leading Yourself
+Page
+Recommended resources for further reading. -4
+[Day 2] Working With Others
+ [Day 2] Working With Others
+Complete All Items
+Page
+📚 Learning Objectives: Working With Others-2
+ViewMust view in order to complete this module item
+Page
+Working with Others VILT Feedback Form-2
+External Tool
+Teamwork Foundations Online Course
+Page
+Recommended resources for further reading WWO
+[Day 3] Leading Self Practice Challenge
+ [Day 3] Leading Self Practice Challenge
+Prerequisites: Professional Development Skills [Day 1 ] Leading Self
+Assignment
+Practice Challenge: Maslow Hierarchy of Needs and SMART goal setting
+Sep 10, 2022
+0 pts
+Page
+Practice Challenge Feedback Form-2
+Quiz
+🚀Quiz: Leading Yourself
+Jul 8
+15 pts
+New Quiz
+Post-diagnostic Assessment Leading-Self
+0 pts
+[Day 4] Working With Others Practice Challenge
+ [Day 4] Working With Others Practice Challenge
+Prerequisites: [Day 2] Working With Others
+Assignment
+Practice Challenge: Working With Others
+20 pts
+Page
+Practice Challenge Feedback Form: Working With Others-2
+Quiz
+Quiz: Working With Others
+Sep 15, 2022
+15 pts
+New Quiz
+Post-diagnostic Assessment: Working With Others
+0 pts
+New Quiz
+Phase 1 Final Quiz
+Jul 10
+30 pts

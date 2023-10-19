@@ -1,0 +1,591 @@
+## Phase 3 - Python
+
+ Welcome to Phase 3!
+Page
+Welcome to Phase 3
+Wk1 Day 1
+ Wk1 Day 1
+Context Module Sub Header
+Python Fundamentals
+Page
+Intro to Python
+Assignment
+Running Python Code
+1 pts
+Page
+Common Data Types
+Assignment
+Reading Python Error Messages
+1 pts
+Assignment
+Functions in Python
+1 pts
+Assignment
+Debugging with ipdb
+1 pts
+Wk 1 Day 2
+ Wk 1 Day 2
+Page
+Variable Scope
+Page
+Indentation in Python
+Page
+Big O Notation (CSF)
+Page
+O(1) Time (CSF)
+Page
+O(N) Time (CSF)
+Wk1 Day 3
+ Wk1 Day 3
+Page
+Control Flow: Operators
+Assignment
+[Compulsory]Control Flow: Conditional Statements
+1 pts
+Assignment
+[Compulsory]Control Flow: Loops
+1 pts
+Quiz
+Python Fundamentals Quiz
+11 pts
+Page
+Conclusion to Python Fundamentals
+Wk1 Day 4
+ Wk1 Day 4
+Context Module Sub Header
+Data Structures
+Page
+Intro to Data Structures
+Assignment
+Sequences
+1 pts
+Assignment
+List Comprehensions and Generator Expressions
+1 pts
+Page
+Dictionaries
+Page
+Sets
+Assignment
+[Compulsory]Data Structures Lab
+1 pts
+Quiz
+Data Structures Quiz
+5 pts
+Page
+Conclusion to Data Structures
+Wk1 Day 5
+ Wk1 Day 5
+Complete All Items
+Page
+O(N²) and O(2ⁿ) Time (CSF)
+Page
+O(log(N)) and O(Nlog(N)) Time
+Page
+Problem 1
+Page
+Problem 2
+Page
+Problem 3 (CSF-Practice)
+Page
+Feedback 6
+Mark doneMust mark this module item done in order to complete
+Assignment
+[Compulsory] Phase 3 Code Challenge: Articles - without SQLAlchemy
+Sep 8
+15 pts
+Wk2 Day 6
+ Wk2 Day 6
+Prerequisites: Wk1 Day 5
+Assignment
+Parrot Lab
+1 pts
+Assignment
+Countdown to Midnight Lab
+1 pts
+Assignment
+List CRUD Lab
+1 pts
+Assignment
+Badges and Schedules Lab
+1 pts
+Assignment
+Oxford Comma Lab
+1 pts
+Assignment
+Deli Counter Lab
+1 pts
+Assignment
+Cartoon Collections Lab
+1 pts
+Assignment
+{"Basket": "ball"}
+1 pts
+Wk2 Day 7
+ Wk2 Day 7
+Context Module Sub Header
+Object Orientation in Python
+Page
+Intro to Object-Oriented Programming
+Page
+Defining Object-Oriented Programming
+Page
+Classes and Instances
+Assignment
+Instance Methods
+1 pts
+Assignment
+Object Initialization
+1 pts
+Assignment
+Attributes and Properties
+1 pts
+Assignment
+[Compulsory]Putting It All Together: Object-Oriented Programming Lab
+1 pts
+Wk2 Day 8
+ Wk2 Day 8
+Page
+Principles of Object-Oriented Design
+Assignment
+[Compulsory]Anagram Detector Lab
+1 pts
+Assignment
+Counting Sentences Lab
+1 pts
+Assignment
+[Compulsory]Cash Register Lab
+1 pts
+Quiz
+Object-Orientation Fundamentals Quiz
+8 pts
+Page
+Conclusion to Object-Oriented Programming Basics
+Page
+Trees (CSF)
+Page
+Binary Trees
+Page
+Binary Search trees
+Wk2 Day 9
+ Wk2 Day 9
+Context Module Sub Header
+Object Inheritance in Python
+Page
+Intro to Object Inheritance
+Assignment
+Defining Object Inheritance
+1 pts
+Page
+Super
+Assignment
+Object Inheritance Lab, Part One
+1 pts
+Assignment
+[Compulsory]Object Inheritance Lab, Part Two
+1 pts
+Page
+Decorators
+Page
+Mini Lesson: Lambda Functions
+Quiz
+Object Inheritance Quiz
+5 pts
+Page
+Conclusion to Object Inheritance
+Wk2 Day 10: Class Attributes and Class Methods in Python
+ Wk2 Day 10: Class Attributes and Class Methods in Python
+Page
+Intro to Class Attributes and Class Methods
+Page
+Defining Class Attributes and Class Methods
+Page
+Remembering Objects
+Assignment
+Class Attributes and Methods Lab
+1 pts
+Quiz
+Class Attributes and Methods Quiz
+6 pts
+Page
+Conclusion to Class Attributes and Class Methods
+Page
+Project Structure (CSF)
+Page
+Creating a Node
+Page
+Adding a Root Node to a Binary Search Tree
+Page
+Inserting a Node
+Page
+Inserting a Node Less Than the Root
+Page
+Inserting a Node Greater Than the Root
+Assignment
+[Compulsory]Phase 3 Code Challenge: Restaurants- without SQLAlchemy
+Sep 8
+15 pts
+Assignment
+[Compulsory]Data Structures and Algorithms Assessment
+9 pts
+Wk3 Day 11: Configuring Python Applications
+ Wk3 Day 11: Configuring Python Applications
+Prerequisites: Wk2 Day 10: Class Attributes and Class Methods in Python
+Complete All Items
+Page
+Intro to Configuring Python Applications
+ViewMust view in order to complete this module item
+Assignment
+Import
+1 pts
+Page
+Intro to File IO
+ViewMust view in order to complete this module item
+Assignment
+[Compulsory]File IO Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Environment Setup
+ViewMust view in order to complete this module item
+Page
+PyPi and Pip
+ViewMust view in order to complete this module item
+Assignment
+Environment Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Python Scripting
+Wk3 Day 11
+ Wk3 Day 11
+Complete All Items
+Context Module Sub Header
+SQL Fundamentals
+Page
+Intro to SQL
+Page
+Video: Intro to SQL
+ViewMust view in order to complete this module item
+Page
+Setting up SQLite
+Page
+Database Basics
+Page
+Writing Database Commands to a File
+Page
+SQLite Data Types
+Page
+Video: SQL SELECT
+ViewMust view in order to complete this module item
+Page
+Video: SQL CREATE TABLE
+ViewMust view in order to complete this module item
+Page
+Video: SQL INSERT
+ViewMust view in order to complete this module item
+Page
+Video: SQL UPDATE and DELETE
+ViewMust view in order to complete this module item
+[Optional] Regular Expressions
+ [Optional] Regular Expressions
+Page
+Intro to Regular Expressions
+Page
+RegEx Basics
+Page
+The "re" Module
+Assignment
+RegEx Lab
+1 pts
+Assignment
+Email Parser Lab
+1 pts
+Page
+Conclusion to Regular Expressions
+Wk3 Day 12
+ Wk3 Day 12
+Page
+CRUD Operations in SQL
+Page
+SQL Queries
+Assignment
+[Compulsory]Organizing Bears Lab
+1 pts
+Quiz
+SQL Quiz
+9 pts
+Page
+Conclusion to SQL Fundamentals
+Wk3 Day 12
+ Wk3 Day 12
+Complete All Items
+Context Module Sub Header
+Table Relations in SQL
+Page
+Intro to Table Relations in SQL
+Page
+Relational Database Basics
+Page
+Associating Tables with Foreign Keys
+Page
+Video: SQL Joins
+ViewMust view in order to complete this module item
+Page
+SQL Joins
+Page
+Creating Join Tables
+Quiz
+Table Relations in SQL Quiz
+7 pts
+SubmitMust submit this module item to complete it
+Page
+Conclusion to Table Relations in SQL
+Page
+Binary Search Trees: Part 2 (CSF)
+Page
+Binary Search Trees: Part 3
+Page
+Practice
+Wk3 Day 13
+ Wk3 Day 13
+Context Module Sub Header
+Object-Relational Mapping
+Page
+Intro to Object-Relational Mapping
+Page
+Defining Object-Relational Mapping
+Assignment
+Mapping Python Classes to a Database
+1 pts
+Page
+Mapping Database Records to Python Objects
+Assignment
+[Compulsory]Putting it All Together: ORMs Lab
+1 pts
+Quiz
+Object-Relational Mapping Quiz
+9 pts
+Page
+Conclusion to Object-Relational Mapping
+Wk3 Day 13
+ Wk3 Day 13
+Prerequisites: Wk3 Day 13
+Context Module Sub Header
+Using SQLAlchemy
+Page
+Intro to SQLAlchemy
+Assignment
+[Compulsory]Defining a Schema with SQLAlchemy ORM
+1 pts
+Page
+Create, Read, Update, and Delete with SQLAlchemy
+Assignment
+[Compulsory]Translating from ORMS to SQLAlchemy Lab
+1 pts
+Assignment
+Migrations and Alembic
+1 pts
+Assignment
+Manual Migrations and Downgrades
+1 pts
+Assignment
+Working with Seed Data
+1 pts
+Page
+Conclusion to SQLAlchemy
+Page
+Maps (CSF)
+Wk3 Day 14 cont'd...
+ Wk3 Day 14 cont'd...
+Context Module Sub Header
+SQLAlchemy Relationships
+Page
+Intro to SQLAlchemy Relationships
+Assignment
+One-to-One and One-to-Many Relationships
+1 pts
+Assignment
+Many-to-Many Relationships
+1 pts
+Quiz
+SQLAlchemy Relationships Quiz
+7 pts
+Page
+Conclusion to SQLAlchemy Relationships
+Assignment
+Phase 3 Mock Code Challenge: Freebie Tracker
+1 pts
+Assignment
+Phase 3 Mock Code Challenge: Theater Work
+1 pts
+Wk3 Day 14
+ Wk3 Day 14
+Context Module Sub Header
+Data Structures and Algorithms
+Page
+Introduction to Data Structures and Algorithms
+Page
+Using Data Structures
+Assignment
+Set Data Structure Code Along (Python)
+1 pts
+Page
+Sets-2 JS (CSF)
+Page
+Stack Data Structure
+Assignment
+Stack Lab
+1 pts
+Page
+Singly Linked List Data Structure
+Page
+Doubly Linked List Data Structure
+Page
+Tree Data Structure
+Assignment
+Tree Traversal
+1 pts
+Quiz
+Data Structures and Algorithms Quiz
+5 pts
+Page
+Graphs (CSF)
+Wk3 Day 15: Phase 3 Code Challenge
+ Wk3 Day 15: Phase 3 Code Challenge
+Page
+Feedback 7
+Assignment
+[Compulsory]Phase 3 SQLAlchemy Code Challenge: Restaurants
+15 pts
+Wk4: Phase 3 Project
+ Wk4: Phase 3 Project
+Prerequisites: Wk3 Day 15: Phase 3 Code Challenge
+Page
+Intro to CLIs
+Assignment
+Phase 3 Project: CLI
+30 pts
+Page
+Phase 3 Project Rubric
+Pre-Diagnostic Assessments
+ Pre-Diagnostic Assessments
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Self Leadership Skills?
+0 pts
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Team Work Skills?
+0 pts
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Communication Skills?
+0 pts
+New Quiz
+Pre-diagnostic Assessment: How Good Are Your Creative and Problem Solving Skills?
+0 pts
+New Quiz
+Pre-diagnostic : How Good are your Project Management Skills
+0 pts
+Leading-Self -*
+ Leading-Self -*
+Page
+📚 Learning Objectives: Leading Self-2
+Page
+Leading Self VILT Feedback Form-2
+Page
+Leading- Self Compulsory Reading
+Page
+LRMG Pilot Feedback Form
+Leading Self Practice Activities
+ Leading Self Practice Activities
+Prerequisites: Leading-Self -*
+External Url
+Online Course Leading Self Links to an external site.
+Quiz
+🚀Quiz: Leading Yourself
+15 pts
+Assignment
+Practice Challenge Stretch Assignment : Maslow Hierarchy of Needs and SMART goal setting
+0 pts
+Page
+Practice Challenge Feedback Form-2
+New Quiz
+Post-diagnostic Assessment Leading-Self
+0 pts
+Working With Others - *
+ Working With Others - *
+Complete All Items
+Page
+📚 Learning Objectives: Working With Others-2
+ViewMust view in order to complete this module item
+Page
+Working with Others VILT Feedback Form-2
+Page
+WWO Compulsory Reading
+Page
+LRMG Pilot Feedback Form - wk 2
+Working With Others Practice Activities
+ Working With Others Practice Activities
+Prerequisites: Working With Others - *
+External Url
+WWO Online Course Links to an external site.
+Quiz
+🚀Quiz: Working With Others
+15 pts
+Assignment
+Practice Challenge Stretch Assignment : Working With Others
+20 pts
+Page
+Practice Challenge Feedback Form: Working With Others-2
+New Quiz
+Post-diagnostic Assessment: Working With Others
+0 pts
+Communicating for Impact I - *
+ Communicating for Impact I - *
+Complete All Items
+Page
+📚 Learning Objectives: Communicating for Impact
+ViewMust view in order to complete this module item
+Page
+Communicating for Impact VILT Feedback
+Page
+CFI Compulsory Reading
+Page
+LRMG Pilot Feedback Form - wk 3
+Communicating for Impact I Practice Activities
+ Communicating for Impact I Practice Activities
+External Url
+CFI 1 Online Course Links to an external site.
+New Quiz
+🚀Quiz : Communicating for impact (I)
+15 pts
+Assignment
+Practice Challenge Stretch Assignment: Communication Foundations
+8 pts
+Page
+Communicating for Impact Practice Challenge Feedback
+Communicating For Impact II - *
+ Communicating For Impact II - *
+Complete All Items
+Page
+📚 Learning Objectives: Creating and Giving Business Presentations
+ViewMust view in order to complete this module item
+Page
+Communicating for Impact (II) VILT Feedback Form
+Communicating For Impact II Practice Activites
+ Communicating For Impact II Practice Activites
+External Url
+CFI Online Course Links to an external site.
+New Quiz
+🚀Quiz: Communicating for impact (II)
+16 pts
+Assignment
+Practice Challenge: Creating and Giving Business Presentations
+24 pts
+Page
+Creating and Giving Business Presentations Practice Challenge Feedback Form
+New Quiz
+Post-diagnostic Assessment: How Good Are Your Communication Skills?
+0 pts
+New Quiz
+End of section Final Quiz I
+30 pts

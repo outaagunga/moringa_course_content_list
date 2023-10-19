@@ -1,0 +1,502 @@
+## Phase 0 - Introduction 
+
+ Welcome
+Complete All Items
+Module Completed
+Page
+Moringa School Student Contract [COMPULSORY]
+Marked doneModule item marked as done and is complete
+FLex Pre-requisite
+ FLex Pre-requisite
+Prerequisites: Welcome
+Complete All Items
+Module Completed
+Quiz
+Pre-assessment diagnostic
+1 pts
+ViewedModule item has been viewed and is complete
+Day 1: Welcome to Moringa School
+ Day 1: Welcome to Moringa School
+Prerequisites: Welcome
+Complete All Items
+Module Completed
+Page
+Learn More about the Moringa Community
+Page
+Financing your Studies
+Page
+About This Course
+ViewedModule item has been viewed and is complete
+Page
+How to Get Help
+ViewedModule item has been viewed and is complete
+Page
+Introduction To Canvas
+Page
+Navigating Canvas
+Page
+Lesson Types
+Page
+Introduction to the Local Environment Setup Instructions
+Day 1: MacOS Environment Setup
+ Day 1: MacOS Environment Setup
+Prerequisites: FLex Pre-requisite
+Complete All Items
+Module Completed
+Page
+Introduction to MacOS Environment Setup
+ViewedModule item has been viewed and is complete
+Page
+MacOS System Setup
+ViewedModule item has been viewed and is complete
+Page
+Mac NodeJS Install
+ViewedModule item has been viewed and is complete
+Page
+Mac Git And Github Configuration
+ViewedModule item has been viewed and is complete
+Page
+Verify and Troubleshoot your macOS Environment Setup
+ViewedModule item has been viewed and is complete
+Day 1: Student Expectations: Student Handbook and Policies
+ Day 1: Student Expectations: Student Handbook and Policies
+Prerequisites: FLex Pre-requisite
+Page
+Making Moringa School an Inclusive Place
+Page
+Community Safety Policy
+Page
+The Importance of Self-Care
+Page
+Student Code of Conduct & Academic Dishonesty
+Page
+Graduation or Completion Requirements
+Quiz
+Reflection on the Code of Conduct and Graduation Requirements
+Mar 10
+3 pts
+Quiz
+Community Safety & Inclusion
+Mar 10
+3 pts
+Day 2: Being a Remote Learner
+ Day 2: Being a Remote Learner
+Prerequisites: Day 1: Student Expectations: Student Handbook and Policies
+Page
+Preparing to Learn Online
+Page
+Supports & Tools for Remote Learning
+Page
+Drop-In Support: Space Request
+Page
+Student Expectations
+Day 2: Navigating Tools for Remote Learning
+ Day 2: Navigating Tools for Remote Learning
+Prerequisites: Day 2: Being a Remote Learner
+Complete All Items
+Module Completed
+Page
+Remote Learning Tools
+ViewedModule item has been viewed and is complete
+Page
+Canvas
+Page
+Slack
+Page
+Google Education Workspace
+Page
+Google Meet
+Page
+Code Editors
+Mar 3, 2021
+Day 3: Introduction to Soft Skills
+ Day 3: Introduction to Soft Skills
+Prerequisites: Day 2: Navigating Tools for Remote Learning
+Page
+What are Soft Skills and Why Should you Care?
+Page
+Our Meta Skills
+Quiz
+Exit Ticket
+Page
+Learning Journey Overview
+Mar 10
+Quiz
+Reflection
+Day 3: Checking Your Understanding
+ Day 3: Checking Your Understanding
+Prerequisites: Day 3: Introduction to Soft Skills
+Complete All Items
+Module Completed
+Assignment
+Testing IP Submission
+Mar 10
+2 pts
+ViewedModule item has been viewed and is complete
+Quiz
+Remote Learning Tools Quiz
+Mar 10
+5 pts
+Day 3: Student Profile and Feedback
+ Day 3: Student Profile and Feedback
+Prerequisites: Day 3: Checking Your Understanding
+Complete All Items
+Module Completed
+Page
+Student Profile Survey [COMPULSORY]
+ViewedModule item has been viewed and is complete
+Page
+Feedback on the Moringa School Admissions Process
+Day 3: Phase 0 Diagnostic
+ Day 3: Phase 0 Diagnostic
+Prerequisites: Day 3: Student Profile and Feedback
+Complete All Items
+Module Completed
+Quiz
+SA-02. Diagnostic
+28 pts
+SubmittedModule item submitted and is complete
+Day 4: CLI
+ Day 4: CLI
+Complete All Items
+Module Completed
+Page
+Introduction to the Command Line Interface
+ViewedModule item has been viewed and is complete
+Page
+Bash Navigation
+ViewedModule item has been viewed and is complete
+Page
+Navigating Files and Directories in Bash
+ViewedModule item has been viewed and is complete
+Page
+Working with Programs in Bash
+ViewedModule item has been viewed and is complete
+Page
+Organizing Your Work for this Course
+ViewedModule item has been viewed and is complete
+Assignment
+SA-01. Complete Your First Software Engineering Assignment
+1 pts
+SubmittedModule item submitted and is complete
+Day 4: Git
+ Day 4: Git
+Complete All Items
+Module Completed
+Page
+Intro to Version Control
+ViewedModule item has been viewed and is complete
+Page
+Git Basics
+ViewedModule item has been viewed and is complete
+Page
+Getting Code with Git
+ViewedModule item has been viewed and is complete
+Page
+Pushing Code with Git
+ViewedModule item has been viewed and is complete
+Assignment
+Git Basics Lab
+1 pts
+SubmittedModule item submitted and is complete
+Day 5: HTML
+ Day 5: HTML
+Complete All Items
+Module In Progress
+Page
+A Quick Tour Of The Web
+ViewedModule item has been viewed and is complete
+Page
+Welcome to HTML
+ViewedModule item has been viewed and is complete
+Page
+Files, Extensions, and File Types
+ViewedModule item has been viewed and is complete
+Assignment
+Experiencing HTML Lab
+1 pts
+SubmittedModule item submitted and is complete
+Assignment
+Document Structure Continued
+1 pts
+SubmittedModule item submitted and is complete
+Assignment
+Your First HTML Tag Lab
+1 pts
+SubmittedModule item submitted and is complete
+Page
+Nested HTML Tags And Attributes
+ViewedModule item has been viewed and is complete
+Assignment
+Create a Link Using the href Attribute
+1 pts
+SubmittedModule item submitted and is complete
+Page
+HTML Lists, Images and Links
+ViewedModule item has been viewed and is complete
+Assignment
+HTML Lists
+1 pts
+SubmittedModule item submitted and is complete
+Assignment
+HTML Tables
+1 pts
+SubmittedModule item submitted and is complete
+Assignment
+HTML Images
+1 pts
+SubmittedModule item submitted and is complete
+Page
+HTML Validation
+ViewedModule item has been viewed and is complete
+Page
+Expanding Your HTML Vocabulary via MDN
+ViewedModule item has been viewed and is complete
+Page
+Researching HTML Elements
+ViewedModule item has been viewed and is complete
+Assignment
+HTML Issue Bot 9000
+1 pts
+SubmittedModule item submitted and is complete
+Page
+Using Your Browser's Developer Tools
+ViewedModule item has been viewed and is complete
+Assignment
+HTML Album Cover
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Riyadh Blog
+1 pts
+SubmittedModule item submitted and is complete
+Day 5: CSS
+ Day 5: CSS
+Complete All Items
+Module In Progress
+Page
+Intro to CSS
+ViewedModule item has been viewed and is complete
+Assignment
+Introduction to CSS Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+CSS Fundamentals
+ViewedModule item has been viewed and is complete
+Assignment
+CSS Fundamentals Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+CSS Validation Lab: Issue Bot 9000
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+My Little Rainbow
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+CSS Kitten Wheelbarrow
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+CSS Graffiti Override Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Phase 0 Feedback Week 1
+Mark doneMust mark this module item done in order to complete
+Day 6: Programming as Conversation Part 1: Expressions
+ Day 6: Programming as Conversation Part 1: Expressions
+Complete All Items
+Module Completed
+Page
+Introduction to Programming as Conversation
+ViewedModule item has been viewed and is complete
+Page
+Expressions in JavaScript
+ViewedModule item has been viewed and is complete
+Page
+The Constant Expression
+ViewedModule item has been viewed and is complete
+Page
+The Assignment Expression
+ViewedModule item has been viewed and is complete
+Page
+The Variable Lookup Expression
+ViewedModule item has been viewed and is complete
+Page
+JavaScript Variables
+ViewedModule item has been viewed and is complete
+Page
+JavaScript Data Types
+ViewedModule item has been viewed and is complete
+Page
+Working With Strings
+ViewedModule item has been viewed and is complete
+Page
+Boolean Expressions
+ViewedModule item has been viewed and is complete
+Page
+Comparisons in JavaScript
+ViewedModule item has been viewed and is complete
+Page
+Logical Operators
+ViewedModule item has been viewed and is complete
+Page
+Programming with Expressions
+ViewedModule item has been viewed and is complete
+Day 7: Programming as Conversation Part 2: Statements
+ Day 7: Programming as Conversation Part 2: Statements
+Prerequisites: Day 6: Programming as Conversation Part 1: Expressions
+Complete All Items
+Module Completed
+Page
+Programming as Conversation 2: Introduction
+ViewedModule item has been viewed and is complete
+Page
+Default Sequence and Comments
+ViewedModule item has been viewed and is complete
+Page
+Selection with Conditionals: the if Statement
+ViewedModule item has been viewed and is complete
+Page
+Selection with Conditional: the 'switch' Statement
+ViewedModule item has been viewed and is complete
+Page
+Logging in JavaScript
+ViewedModule item has been viewed and is complete
+Page
+Repetition: the while Loop
+ViewedModule item has been viewed and is complete
+Day 7: Programming as Conversation Part 3: Bundling Expressions and Statements into Functions
+ Day 7: Programming as Conversation Part 3: Bundling Expressions and Statements into Functions
+Prerequisites: Day 7: Programming as Conversation Part 2: Statements
+Complete All Items
+Module In Progress
+Page
+Programming as Conversation Part 3: Introduction
+ViewedModule item has been viewed and is complete
+Assignment
+Testing With Javascript
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Testing with JavaScript Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Introduction to Functions in JavaScript
+ViewedModule item has been viewed and is complete
+Assignment
+Introduction to Functions Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+JavaScript Function Parameters Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+JavaScript Calculator Challenge Lab
+1 pts
+SubmitMust submit this module item to complete it
+Day 8: Working with Data Structures
+ Day 8: Working with Data Structures
+Prerequisites: Day 7: Programming as Conversation Part 3: Bundling Expressions and Statements into Functions
+Complete All Items
+Module Locked
+Page
+Introduction to Working with Data Structures
+ViewMust view in order to complete this module item
+Page
+Arrays
+Page
+Array Methods
+Assignment
+Arrays Lab
+1 pts
+Page
+Objects
+Page
+Modifying Objects
+Assignment
+Objects Lab
+1 pts
+Page
+Debugging in Node
+Page
+Errors and Stack Traces
+Assignment
+Looping Lab
+1 pts
+Page
+Object Iteration
+Page
+Traversing Nested Objects
+Day 9: Manipulating the DOM
+ Day 9: Manipulating the DOM
+Prerequisites: Day 8: Working with Data Structures
+Complete All Items
+Module Locked
+Page
+Introduction to the DOM
+ViewMust view in order to complete this module item
+Assignment
+DOM Editing Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Changing The DOM with DevTools and JavaScript
+ViewMust view in order to complete this module item
+Page
+The DOM Is a Tree
+ViewMust view in order to complete this module item
+Page
+JavaScript Query Selector Methods
+ViewMust view in order to complete this module item
+Assignment
+Creating and Inserting DOM Nodes Lab
+1 pts
+SubmitMust submit this module item to complete it
+Day 9: Script Events
+ Day 9: Script Events
+Prerequisites: Day 9: Manipulating the DOM
+Complete All Items
+Module Locked
+Page
+JavaScript Events
+ViewMust view in order to complete this module item
+Assignment
+JavaScript Event Listeners Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Moving Things with JavaScript by Acting on Events
+1 pts
+SubmitMust submit this module item to complete it
+Day 10: Project Mode
+ Day 10: Project Mode
+Complete All Items
+Page
+Hosting a Website on GitHub Pages
+ViewMust view in order to complete this module item
+Page
+Project: Build a Personal Website
+ViewMust view in order to complete this module item
+Page
+Phase 0 Feedback Week 2
+Mark doneMust mark this module item done in order to complete
+Day 10: End of Phase Assessment
+ Day 10: End of Phase Assessment
+Prerequisites: Day 10: Project Mode
+Complete All Items
+Module Locked
+Quiz
+Phase 0/Pre-Work Assessment
+36 pts
+SubmitMust submit this module item to complete it
+Looking Ahead
+ Looking Ahead
+Page
+Useful Reading & Exploration

@@ -1,0 +1,173 @@
+## Python Flask - Phase 4
+ Wk1 Day 1: Flask Fundamentals
+
+Intro to Flask
+How the Web Works
+Web Servers and WSGI
+Building Flask Applications
+Flask Routing and Views Lab
+The Request-Response Cycle
+Flask-SQLAlchemy
+Flask-SQLAlchemy, Part 2
+Flask-SQLAlchemy Lab
+Flask Fundamentals Quiz
+Conclusion to Flask Fundamentals
+[Optional] Web Scraping
+ [Optional] Web Scraping
+Scraping HTML with Beautiful Soup
+Object Oriented Scraping
+Scraping Kickstarter
+Wk1-Day 2: Retrieving Data from APIs
+ Wk1-Day 2: Retrieving Data from APIs
+Introduction to Getting Remote Data
+Sending GET Requests
+Working with APIs
+Getting Remote Data Lab
+Testing APIs with Postman
+Getting Remote Data Conclusion
+Wk1 Day 2:Building APIs
+Intro to Building APIs
+Building a GET API
+Building a GET API Lab
+Building a POST/PATCH/DELETE API
+Building a POST/PATCH/DELETE API Lab
+[Compulsory]Chatterbox Lab
+Conclusion to Building APIs
+Wk1-Day 3: REST APIs
+Intro to REST
+Create and Retrieve with Flask-RESTful
+REST Create and Retrieve Lab
+Error Handling In RESTful APIs
+Update and Delete with Flask-RESTful
+[Compulsory]REST CRUD Lab
+Bonus: REST Philosophy
+Bonus: HATEOAS and Marshmallow
+Conclusion to REST
+REST APIs Quiz
+Wk 1 Day 3: Constraints and Validations
+Intro to Constraints and Validations
+SQLAlchemy Constraints
+SQLAlchemy Validations
+Assignment
+SQLAlchemy Validations Lab
+Validations Quiz
+Validation Conclusion
+Wk1 Day 4: Full-Stack Development
+Intro to Full-Stack Development
+Adding React to Flask
+Adding React to Flask, Part 2
+Formik and Form Validation
+TCP, HTTP, and Websocket
+Full-Stack Quiz
+Conclusion to Full-Stack Development
+Wk 1 Day 5: Code Challenge
+Phase 4 Code Challenge Instructions
+[Compulsory]Phase 4 Code Challenge: Superheroes
+Week 2: Day 6 & 7(Computer Science Fundamentals)
+ Week 2: Day 6 & 7(Computer Science Fundamentals)
+Prerequisites: Wk1 Day 4: Full-Stack Development
+Context Module Sub Header
+Graph Theory
+Objectives
+Graphs
+Representing Graph Structures With Code
+Edge Lists
+Adjacency Lists
+Adjacency Matrix
+Building Graphs - Part 1
+Building Graphs - Part 2
+Instantiating a Graph
+Creating Nodes
+Checking to See if Nodes Exist
+Adding Edges
+Checking to See if a Node Exists
+Removing Edges
+Removing Nodes
+Context Module Sub Header
+Stacks and Queues
+Writing our Own Stack and Queue Functions
+Depth and Breadth Search Algorithms
+Breadth-First Search
+Depth First Algorithms
+Breadth First Algorithms
+[Optional Content] Identity and Access Management
+ [Optional Content] Identity and Access Management
+Intro to Identity and Access Management
+Cookies and Sessions
+Cookies in APIs
+Cookies and Sessions Lab
+Authenticating Users
+Authenticating Users Lab
+Authorizing Requests
+Authorizing Requests Lab
+Password Protection
+Password Protection Lab
+Putting it All Together: IAM Lab
+Conclusion to Identity and Access Management
+Wk2-Day 8: Deployment
+ Wk2-Day 8: Deployment
+Intro to Deployment
+Deploying a Flask API to Render
+Using Databases with Render
+Deploying a Flask-React App to Render
+Deploying Quiz
+Conclusion to Deployment
+Week 2: Day 9 (Computer Science Fundamentals)
+ Week 2: Day 9 (Computer Science Fundamentals)
+Bit Manipulation and Hashing
+Manipulating Bits
+Hash Tables
+Optimizing Hashing Algorithms
+SHA and Encryption
+Feedback wk08
+Wk2 Day 10 : Phase 4 Code Challenge
+ Wk2 Day 10 : Phase 4 Code Challenge
+Prerequisites: Week 2: Day 9 (Computer Science Fundamentals)
+[Compulsory]Phase 4 Code Challenge: Pizzas
+Wk3: Phase 4 Project
+ Wk3: Phase 4 Project
+[Compulsory]End of Phase 4 Project
+Phase 4 Project Rubric
+Entrepreneurial Thinking I
+ Entrepreneurial Thinking I
+Complete All Items
+Module Completed
+📚 Learning Objectives: Entrepreneurial Orientation
+ViewedModule item has been viewed and is complete
+Entrepreneurial Thinking (I) VILT Feedback
+Entrepreneurial Thinking I Practice Activities
+ Entrepreneurial Thinking I Practice Activities
+🚀Quiz: Entrepreneurial Thinking (I)
+Practice Challenge: Problem Solving
+Creative Problem Solving Practice Challenge Feedback Form
+Entrepreneurial Orientation II
+ Entrepreneurial Orientation II
+📚 Learning Objectives: Entrepreneurial Orientation II
+Entrepreneurial Thinking (II) VILT Feedback Form
+Entrepreneurial Thinking II Practice Activities
+ Entrepreneurial Thinking II Practice Activities
+Post-diagnostic Assessment: How Good Are Your Creative and Problem Solving Skills?
+🚀Quiz: Entrepreneurial Thinking (II)
+Practice Challenge: Human Centered Design
+Human-Centered Design Practice Challenge Feedback Form
+Project Management
+📚 Learning Objectives: Project Management
+ViewMust view in order to complete this module item
+VILT Feedback: Project Management
+Project Management
+ Project Management
+🚀 Quiz: Project Management
+Post-diagnostic : How Good are your Project Management Skills
+Practice Challenge Stretch assignment II: Final Project Case Study
+Practice Challenge Stretch Assignment I: Reflection Essay
+Career Readiness
+📚Career Readiness: Job Prep
+ViewMust view in order to complete this module item
+Online Course: 15 Tips for Landing a Data Science Job
+Online Course: Expert Tips for Answering Common Interview Questions
+Job Hunting Process
+Virtual Instructor-Led Training: Mock Interviews
+Online Branding
+Career Readiness
+🚀Quiz: Expert Tips for Answering Common Interview Questions
+Virtual Instructor-Led Training: Mock Interviews Feedback Form

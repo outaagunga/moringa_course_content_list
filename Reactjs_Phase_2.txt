@@ -1,0 +1,481 @@
+## Phase 2   Reactjs
+
+ Discussion Questions
+Discussion Topic
+Discussion Questions: Components
+Discussion Topic
+Discussion Questions: Extracting Components
+Discussion Topic
+Discussion Questions: Core React Concepts
+Discussion Topic
+Discussion Questions: Props vs. State
+Discussion Topic
+Discussion Questions: Props and State Exercise
+Discussion Topic
+Discussion Questions: Conditional Rendering
+Discussion Topic
+Discussion Questions: Lifting State
+Discussion Topic
+Discussion Questions: Props and Component Reusability
+Welcome to Phase 2!
+ Welcome to Phase 2!
+Page
+Welcome to Phase 2
+Wk 1 Day 1
+ Wk 1 Day 1
+Complete All Items
+Context Module Sub Header
+Introduction to React
+Page
+What is React?
+ViewMust view in order to complete this module item
+Page
+Intro to npm
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) npm Code-Along
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) Running Tests in React
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+(Not graded) A React App Example
+1 pts
+SubmitMust submit this module item to complete it
+Quiz
+SA. 01 Introduction to React Quiz
+6 pts
+SubmitMust submit this module item to complete it
+Wk 1 Day 2
+ Wk 1 Day 2
+Complete All Items
+Context Module Sub Header
+Components and Props
+External Url
+Scrimba Playlist: Components & Props
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) React Components Basics
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+Organizing Code with Import/Export
+1 pts
+ViewMust view in order to complete this module item
+Page
+Writing JSX
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Props Basics
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+Props Destructuring and Default Values
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+Lists and Keys
+1 pts
+ViewMust view in order to complete this module item
+Page
+BONUS: React Fragments
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) BONUS: React Children
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+Putting it All Together: Components and Props
+1 pts
+SubmitMust submit this module item to complete it
+Quiz
+SA. 02 Components and Props Quiz
+11 pts
+SubmitMust submit this module item to complete it
+Wk 1 Day 3
+ Wk 1 Day 3
+Complete All Items
+Context Module Sub Header
+State and Events
+External Url
+Scrimba Playlist: State & Events
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Event Handling in React
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+React State
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) React State and Events Code-along
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+React State and Arrays
+1 pts
+ViewMust view in order to complete this module item
+External Url
+Scrimba Playlist: Thinking in React
+ViewMust view in order to complete this module item
+Context Module Sub Header
+Information Flow
+Assignment
+(Not graded) React Information Flow
+1 pts
+Assignment
+(Not graded) Controlled Components
+1 pts
+Assignment
+BONUS: React Forms Abstraction
+1 pts
+Wk 1 Day 4
+ Wk 1 Day 4
+Context Module Sub Header
+Forms
+External Url
+Scrimba Playlist: Side Effects and Data Fetching
+Assignment
+(Not graded) The useEffect Hook
+1 pts
+Assignment
+(Not graded) The useEffect Hook - Cleaning Up
+1 pts
+Assignment
+(Not graded) React useEffect Lab
+1 pts
+Page
+Data Fetching in React
+Assignment
+(Not graded) React Controlled Components Lab
+1 pts
+Assignment
+Lists and Keys Lab
+1 pts
+Assignment
+React State Lab
+1 pts
+Assignment
+React Forms Submit
+1 pts
+Assignment
+Putting it All Together: State and Events
+1 pts
+Quiz
+SA. 03 State and Events Quiz
+14 pts
+Wk 1 Day 5
+ Wk 1 Day 5
+Complete All Items
+Assignment
+MiSA. 07 Phase 2 Code Challenge: Bank of Flatiron
+Jul 28
+15 pts
+Wk 2 Day 6
+ Wk 2 Day 6
+Prerequisites: Wk 1 Day 5
+Assignment
+(Not graded) React Fetch CRUD Codealong
+1 pts
+Assignment
+Putting it All Together: React Fetch CRUD Lab
+1 pts
+Quiz
+SA. 04 Side Effects and Data Fetching Quiz
+9 pts
+Wk 2 Day 7
+ Wk 2 Day 7
+Complete All Items
+Context Module Sub Header
+Client-Side Routing
+External Url
+Scrimba Playlist: React Router
+ViewMust view in order to complete this module item
+Page
+Introduction to Client-Side Routing
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) React Router Code-Along
+1 pts
+Assignment
+Basic Routes Lab
+1 pts
+SubmitMust submit this module item to complete it
+Wk 2 Day 8
+ Wk 2 Day 8
+Context Module Sub Header
+Client-Side Routing (cont.)
+Assignment
+Nested Routes
+1 pts
+Assignment
+SA. 05. Programmatic Navigation
+1 pts
+Quiz
+SA. 06. Client-Side Routing Quiz
+10 pts
+Wk 2 Day 9
+ Wk 2 Day 9
+Complete All Items
+Context Module Sub Header
+Advanced Hooks
+External Url
+Scrimba Playlist: Advanced Hooks
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) The useRef Hook
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) React Context
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Custom Hooks
+1 pts
+ViewMust view in order to complete this module item
+Assignment
+(Not graded) Custom Hooks Workshop
+1 pts
+SubmitMust submit this module item to complete it
+Wk 2 Day 10
+ Wk 2 Day 10
+Complete All Items
+Context Module Sub Header
+Code Challenges
+Assignment
+Phase 2 Code Challenge Rubric
+0 pts
+Assignment
+SA. 08 Phase 2 Code Challenge: Bot Battlr
+Jul 30
+15 pts
+Page
+Feedback 5
+Mark doneMust mark this module item done in order to complete
+Wk 3: Phase 2 Project
+ Wk 3: Phase 2 Project
+Prerequisites: Wk 2 Day 10
+Page
+Phase 2 Project Guidelines
+Assignment
+Phase 2 Independent Project
+Aug 4
+22 pts
+Assignment
+Video Link: Phase 2 Project
+0 pts
+Assignment
+Blog Link: Phase 2 Project
+0 pts
+Assignment
+SA. 11[Internal] Instructor Notes: Phase 2 Project
+30 pts
+Additional Practice: State and Events
+ Additional Practice: State and Events
+Complete All Items
+Assignment
+ReactTube
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+HogWild: The React app for fans of prize-winning pigs
+1 pts
+SubmitMust submit this module item to complete it
+Additional Practice
+ Additional Practice
+Complete All Items
+Assignment
+React Mock Code Challenge: gregslist
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+React Mock Code Challenge: Plantsy
+1 pts
+Assignment
+Practice Challenge: Sushi Saga
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Practice Challenge: Animal Shelter
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Practice Challenge: Toy Tales
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Practice Challenge: Pokemon Searcher
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Practice Challenge: Flatiron Stock Exchange
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Practice Challenge: Flatiron Pizza
+1 pts
+SubmitMust submit this module item to complete it
+External Url
+Scrimba Playlist: Chatterbox Practice Challenge
+ViewMust view in order to complete this module item
+Assignment
+Practice Challenge: WOOF WOOF
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Practice Challenge: WestWorld Command Center
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Async Giphy Search Lab
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Debugging Practice: Flatipotle
+1 pts
+SubmitMust submit this module item to complete it
+Assignment
+Debugging Practice: Binge-Finder
+1 pts
+SubmitMust submit this module item to complete it
+[Optional] React Under the Hood
+ [Optional] React Under the Hood
+Prerequisites: Additional Practice
+Complete All Items
+Page
+Create React App
+ViewMust view in order to complete this module item
+Page
+Babel and React
+ViewMust view in order to complete this module item
+Page
+webpack and React
+ViewMust view in order to complete this module item
+Page
+Reconciliation in React
+ViewMust view in order to complete this module item
+[Optional] Class Components
+ [Optional] Class Components
+Complete All Items
+Page
+Class Components Intro
+ViewMust view in order to complete this module item
+Assignment
+Class Syntax Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+Class Methods and Event Handling
+ViewMust view in order to complete this module item
+Page
+Using State in Class Components
+ViewMust view in order to complete this module item
+Assignment
+Class Component State and Events Lab
+1 pts
+SubmitMust submit this module item to complete it
+Page
+React Component Lifecycle
+ViewMust view in order to complete this module item
+Assignment
+Component Mounting and Unmounting Lab
+1 pts
+SubmitMust submit this module item to complete it
+Congratulations on Completing Phase 2
+ Congratulations on Completing Phase 2
+Page
+Congratulations on Completing Phase 2!
+Blog Links
+ Blog Links
+Prerequisites: Congratulations on Completing Phase 2
+Assignment
+Phase 2 Blog
+1 pts
+[Week 2]Day 1: Communicating for Impact
+ [Week 2]Day 1: Communicating for Impact
+Complete All Items
+Page
+📚 Learning Objectives: Communicating for Impact
+ViewMust view in order to complete this module item
+External Tool
+Online Course: Communicating Foundations
+Page
+Virtual Instructor Led Training: Communication Foundations
+Page
+Communicating for Impact VILT Feedback
+Assignment
+Practice Challenge: Communication Foundations @ Work
+Nov 29, 2022
+8 pts
+Page
+Communicating for Impact Practice Challenge Feedback
+Quiz
+🚀Quiz: Communication Foundations
+Nov 29, 2022
+21 pts
+Day 2: Communicating For Impact
+ Day 2: Communicating For Impact
+Complete All Items
+Page
+📚 Learning Objectives: Creating and Giving Business Presentations
+ViewMust view in order to complete this module item
+External Tool
+Online Course: Creating and Giving Business Presentations
+Page
+Creating and Giving Business Presentation VILT
+Page
+Communicating for Impact (ii) VILT Feedback Form
+Assignment
+Practice Challenge: Creating and Giving Business Presentations @ Work
+Nov 29, 2022
+24 pts
+Page
+Creating and Giving Business Presentations Practice Challenge Feedback Form
+Quiz
+🚀Quiz: Creating and Giving Business Presentations
+Nov 29, 2022
+11 pts
+Assignment
+Post Diagnostic Assessment: How Good Are Your Communication Skills?
+75 pts
+Day 2: Entrepreneurial Orientation
+ Day 2: Entrepreneurial Orientation
+External Tool
+Online Course: Problem Solving Techniques
+Page
+Entrepreneurial Thinking (II) VILT Feedback Form
+Assignment
+Practice Challenge: Problem Solving @ Work
+Nov 29, 2022
+12 pts
+Page
+Practice Challenge Feedback Form
+Quiz
+🚀Quiz: Problem Solving Techniques
+Nov 29, 2022
+19 pts
+Assignment
+Post Diagnostic Assessment: How Creative Are You?
+80 pts
+New Quiz
+Phase 2 Final Quiz
+Nov 29, 2022
+32 pts
+[Week 3]Day 1: Entrepreneurial Thinking
+ [Week 3]Day 1: Entrepreneurial Thinking
+Complete All Items
+Page
+📚 Learning Objectives: Entrepreneurial Orientation
+ViewMust view in order to complete this module item
+External Tool
+Online Course: Thinking Creatively
+Page
+Virtual Instructor Led Session: Creative Problem-Solving
+Page
+Entrepreneurial Thinking (I) VILT Feedback
+External Tool
+Online Course: Creativity Bootcamp
